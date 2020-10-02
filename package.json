@@ -1,0 +1,23 @@
+{
+  "name": "reverse-engeneering-application",
+  "version": "1.0.0",
+  "description": "Reverse engineer the starter code provided and create a tutorial for the code.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lankesh16/Reverse-Engeneering-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lankesh16/Reverse-Engeneering-Application/issues"
+  },
+  "homepage": "https://github.com/lankesh16/Reverse-Engeneering-Application#readme"
+}
